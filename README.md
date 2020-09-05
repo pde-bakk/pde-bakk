@@ -1,7 +1,7 @@
 ### Hey there,
 #### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
 #### Here you can find (almost) all of my personal, but mostly my university projects.
-#### (Do leave a star if my repo has helped you 😇)
+#### (Do leave a star if my repo has helped you 😇).
 
 ![alt-text](https://emoji.gg/assets/emoji/9879_hackerman.gif)
 
