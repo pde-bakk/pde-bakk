@@ -15,6 +15,6 @@ I am currently working on ft_containers (a solo project) and webserv (a group pr
 
 ---
 
-[!Peers's github stats](https://github-readme-stats.vercel.app/api?username=pde-bakk&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
+![Peers's github stats](https://github-readme-stats.vercel.app/api?username=pde-bakk&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
-[!Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pde-bakk&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
+![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pde-bakk&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
