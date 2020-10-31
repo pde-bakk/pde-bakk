@@ -4,7 +4,7 @@
 
 I am currently working on ft_containers (a solo project) and webserv (a group project together with Sam Kortekaas and Tuan Perera).
 
-[![Peer's 42 stats](https://badge42.herokuapp.com/api/stats/[pde-bakk])](https://github.com/JaeSeoKim/badge42)
+[![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
 
 <!-- ![alt-text](https://emoji.gg/assets/emoji/9879_hackerman.gif) -->
