@@ -21,3 +21,13 @@ I am currently working on ft_containers (a solo project) and webserv (a group pr
 ![Peers's github stats](https://github-readme-stats.vercel.app/api?username=pde-bakk&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
 ![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pde-bakk&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
+
+---
+
+## Codingame
+
+### For the Spring Challenge 2020 (Pacman), I finished 234th out of 4955 participants.
+[![Spring Challenge Peer](pictures/SpringChallenge.png)](https://www.codingame.com/contests/spring-challenge-2020)
+
+### For the Fall Challenge 2020, I finished 424 out of 7011 participants.
+[![Spring Challenge Peer](pictures/FallChallenge.png)](https://www.codingame.com/contests/fall-challenge-2020)
