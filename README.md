@@ -2,7 +2,7 @@
 #### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
 #### Here you can find (almost) all of my personal, but mostly my university projects.
 
-I am currently working on ft_containers (a solo project) and webserv (a group project together with Sam Kortekaas and Tuan Perera).
+I am currently working on webserv (a group project together with Sam Kortekaas and Tuan Perera).
 
 [![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
