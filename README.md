@@ -2,7 +2,12 @@
 #### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
 #### Here you can find (almost) all of my personal, but mostly my university projects.
 
-I am currently working on webserv (a group project together with Sam Kortekaas and Tuan Perera).
+I am currently working on ft_transcendence together with Sam Kortekaas (also from Codam) and Soufiane El Melcaoui (from 42 Brussels).
+This project is about creating a website for a pong contest and we have to write the whole back- and front-end ourselves. This is also my first experience with Webdev.
+I'm also looking for an internship right now, preferably in Software Engineering/AI.
+
+In my free time I'm working on an algotrading bot on the MetaTrader 5 platform.
+
 
 [![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
