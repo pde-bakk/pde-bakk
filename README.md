@@ -5,10 +5,6 @@
 I just finished the common core at Codam and during the next 6 months I will be doing my internship at [Authentication in Art](https://authenticationinart.org/) .
 After this, I plan to come back to Codam to tackle the Algorithms and Cybersecurity branches!
 
-I am currently working on ft_transcendence together with Sam Kortekaas (also from Codam) and Soufiane El Melcaoui (from 42 Brussels).
-This project is about creating a website for a pong contest and we have to write the whole back- and front-end ourselves. This is also my first experience with Webdev.
-I'm also looking for an internship right now, preferably in Software Engineering/AI.
-
 In my free time I'm working on an algotrading bot on the MetaTrader 5 platform.
 
 
