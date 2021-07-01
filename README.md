@@ -11,7 +11,6 @@ In my free time I'm working on an algotrading bot on the MetaTrader 5 platform.
 [![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
 
-Tropyhy case:
 [![trophy](https://github-profile-trophy.vercel.app/?username=pde-bakk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
