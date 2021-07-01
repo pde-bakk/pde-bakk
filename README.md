@@ -11,6 +11,10 @@ In my free time I'm working on an algotrading bot on the MetaTrader 5 platform.
 [![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
 
+Tropyhy case:
+[![trophy](https://github-profile-trophy.vercel.app/?username=pde-bakk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!-- ![alt-text](https://emoji.gg/assets/emoji/9879_hackerman.gif) -->
 
 #### You can find me at <a href="https://www.linkedin.com/in/peer-de-bakker-a5b866120/"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.
