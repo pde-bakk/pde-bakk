@@ -1,8 +1,8 @@
 ### Hey there,
 #### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
-#### Here you can find (almost) all of my personal, but mostly my university projects.
+#### I moved all my projects for Codam/42 to [a dedicated organization for them. Check them out here](https://github.com/42pde-bakk)!
 
-I just finished the common core at Codam and during the next 6 months I will be doing my internship at [Authentication in Art](https://authenticationinart.org/) .
+I just finished the common core at Codam and during the next 6 months I will be doing my internship at Panartis.
 After this, I plan to come back to Codam to tackle the Algorithms and Cybersecurity branches!
 
 In my free time I'm working on an algotrading bot on the MetaTrader 5 platform.
