@@ -2,11 +2,11 @@
 #### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
 #### I moved all my projects for Codam/42 to [a dedicated organization for them. Check them out here](https://github.com/42pde-bakk)!
 
-I just finished the common core at Codam and during the next 6 months I will be doing my internship at Panartis.
-After this, I plan to come back to Codam to tackle the Algorithms and Cybersecurity branches!
+I just finished the common core at Codam and my internship at Panartis.
 
-In my free time I'm working on an algotrading bot on the MetaTrader 5 platform.
+Now, my plan at Codam is to tackle the Algorithms and Cybersecurity branches!
 
+Check out my WorkInProgress website [at peerdb.nl](https://peerdb.nl).
 
 [![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
