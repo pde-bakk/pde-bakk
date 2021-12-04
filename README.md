@@ -1,6 +1,6 @@
 ### Hey there,
 #### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
-#### I moved all my projects for Codam/42 to [a dedicated organization for them. Check them out here](https://github.com/42pde-bakk)!
+#### I moved all my projects for Codam/42 to [a dedicated organization for them. Check them out here](https://github.com/42pde-bakk/42Cursus)!
 
 I just finished the common core at Codam and my internship at Panartis.
 
