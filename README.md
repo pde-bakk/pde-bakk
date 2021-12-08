@@ -6,7 +6,7 @@ I just finished the common core at Codam and my internship at Panartis.
 
 Now, my plan at Codam is to tackle the Algorithms and Cybersecurity branches!
 
-Check out my WorkInProgress website [at peerdb.nl](https://peerdb.nl).
+<!-- Check out my WorkInProgress website [at peerdb.nl](https://peerdb.nl). -->
 
 [![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 
