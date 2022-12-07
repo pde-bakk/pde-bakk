@@ -11,6 +11,9 @@ Now, my plan at Codam is to tackle the Algorithms and Cybersecurity branches!
 
 [![pde-bakk's 42 stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=60)](https://github.com/JaeSeoKim/badge42)
 
+![https://tryhackme.com/p/peerdb](https://tryhackme-badges.s3.amazonaws.com/peerdb.png)
+
+
 My 'Trophy case':
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pde-bakk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
