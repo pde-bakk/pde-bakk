@@ -1,15 +1,21 @@
 ### Hey there,
-#### I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.
-#### For the year 2022/2023 I transferred to the mother campus 42Paris.
-#### I moved all my projects for Codam/42 to [a dedicated organization for them. Check them out here](https://github.com/42pde-bakk/42Cursus)!
+I'm Peer de Bakker, a student at 42's campus in Amsterdam named Codam.<br>
+For the year 2022/2023 I transferred to the mother campus 42Paris.<br>
+I already started working on the UNIX and AI projects while in Amsterdam, but also adding Cybersecurity to my portfolio now.<br>
+I moved all my projects for Codam/42 to [a dedicated organization for them. Check them out here](https://github.com/42pde-bakk/42Cursus)!
 
-I just finished the common core at Codam and my internship at Panartis.
 
-Now, my plan at Codam is to tackle the Algorithms and Cybersecurity branches!
+[![pde-bakk's 42 stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
+<!-- [![pde-bakk's 42 stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=60)](https://github.com/JaeSeoKim/badge42) -->
+
+
+## Codingame
+
+### For the most [recent Codingame contest](https://www.codingame.com/contests/fall-challenge-2022), I finished 56th out of a total of 4577 participants:
+![Fall Challenge 2022 peerdb](./images/FallChallenge2022_player_card.png)
+
 
 <!-- Check out my WorkInProgress website [at peerdb.nl](https://peerdb.nl). -->
-
-[![pde-bakk's 42 stats](https://badge42.vercel.app/api/v2/cl1kxvlgu002109lfx5bumh9s/stats?cursusId=21&coalitionId=60)](https://github.com/JaeSeoKim/badge42)
 
 ![https://tryhackme.com/p/peerdb](https://tryhackme-badges.s3.amazonaws.com/peerdb.png)
 
@@ -32,14 +38,5 @@ My 'Trophy case':
 
 ![Peers's github stats](https://github-readme-stats.vercel.app/api?username=pde-bakk&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
-![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pde-bakk&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
-
+<!-- ![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pde-bakk&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff) -->
 ---
-
-## Codingame
-
-### For the Spring Challenge 2020 (Pacman), I finished 234th out of 4955 participants.
-[![Spring Challenge 2020 Peer](https://github.com/pde-bakk/Codingame/blob/master/pictures/SpringChallenge2020.png)](https://www.codingame.com/contests/spring-challenge-2020)
-
-### For the Fall Challenge 2020, I finished 424 out of 7011 participants.
-[![Spring Challenge 2020 Peer](https://github.com/pde-bakk/Codingame/blob/master/pictures/FallChallenge2020.png)](https://www.codingame.com/contests/fall-challenge-2020)
